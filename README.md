@@ -1,2 +1,2 @@
 # rock_paper_scissors
-Play rock paper scissors against a computer
+This is an automated game of rock, paper, scissors played against a randomized result the computer calculates.
